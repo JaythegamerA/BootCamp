@@ -1,0 +1,13 @@
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.exe
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.deps.json
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.runtimeconfig.json
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.runtimeconfig.dev.json
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.dll
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\bin\Debug\netcoreapp3.1\22pmbOOTcAMP.pdb
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.csprojAssemblyReference.cache
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.AssemblyInfoInputs.cache
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.AssemblyInfo.cs
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.csproj.CoreCompileInputs.cache
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.dll
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.pdb
+E:\VGD\JonathanArzate\Jonathan\c#\22pmbOOTcAMP\22pmbOOTcAMP\obj\Debug\netcoreapp3.1\22pmbOOTcAMP.genruntimeconfig.cache
